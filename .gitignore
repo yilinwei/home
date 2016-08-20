@@ -1,0 +1,6 @@
+# emacs
+.emacs.d/elpa/
+.emacs.d/auto-save-list/
+.emacs.d/ensime/
+.emacs.d/projectile.cache
+.emacs.d/ido.last
